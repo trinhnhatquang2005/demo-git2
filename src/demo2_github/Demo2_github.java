@@ -17,6 +17,7 @@ public class Demo2_github {
         System.out.println("demo2_github ohhhh");
         System.out.println("emmi fukada 2 lan");
         System.out.println("quang quang");
+        System.out.println("quang quanggggggggggg");
     }
     
 }
